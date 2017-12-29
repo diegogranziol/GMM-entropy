@@ -1,0 +1,166 @@
+\begin{thebibliography}{10}
+
+\bibitem{cover2012elements}
+Thomas~M Cover and Joy~A Thomas.
+\newblock {\em Elements of information theory}.
+\newblock John Wiley \& Sons, 2012.
+
+\bibitem{shannon2001mathematical}
+Claude~E Shannon.
+\newblock A mathematical theory of communication.
+\newblock {\em ACM SIGMOBILE Mobile Computing and Communications Review},
+  5(1):3--55, 2001.
+
+\bibitem{caticha2012entropic}
+A~Caticha.
+\newblock Entropic inference and the foundations of physics (monograph
+  commissioned by the 11th brazilian meeting on {B}ayesian
+  statistics--ebeb-2012, 2012.
+
+\bibitem{cheng1983estimating}
+RCH Cheng and NAK Amin.
+\newblock Estimating parameters in continuous univariate distributions with a
+  shifted origin.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)}, pages 394--403, 1983.
+
+\bibitem{manyika1992information}
+J~Manyika and H~Durrant-Whyte.
+\newblock Information as a basis for management and control in decentralized
+  fusion architectures.
+\newblock In {\em IEEE Conference on Decision and Control (CDC)}, 1992.
+
+\bibitem{viola1997alignment}
+Paul Viola and William~M Wells~III.
+\newblock Alignment by maximization of mutual information.
+\newblock {\em International journal of computer vision}, 24(2):137--154, 1997.
+
+\bibitem{olsen2003efficient}
+Peder~A Olsen and Satya Dharanipragada.
+\newblock An efficient integrated gender detection scheme and time mediated
+  averaging of gender dependent acoustic models.
+\newblock In {\em INTERSPEECH}, 2003.
+
+\bibitem{huo2006dtw}
+Qiang Huo and Wei Li.
+\newblock A dtw-based dissimilarity measure for left-to-right hidden markov
+  models and its application to word confusability analysis.
+\newblock In {\em Ninth International Conference on Spoken Language
+  Processing}, 2006.
+
+\bibitem{silva2006average}
+Jorge Silva and Shrikanth Narayanan.
+\newblock Average divergence distance as a statistical discrimination measure
+  for hidden markov models.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing},
+  14(3):890--906, 2006.
+
+\bibitem{amari2007methods}
+Shun-ichi Amari and Hiroshi Nagaoka.
+\newblock {\em Methods of information geometry}, volume 191.
+\newblock American Mathematical Soc., 2007.
+
+\bibitem{maz1996approximate}
+Vladimir Maz'ya and Gunther Schmidt.
+\newblock On approximate approximations using gaussian kernels.
+\newblock {\em IMA Journal of Numerical Analysis}, 16(1):13--29, 1996.
+
+\bibitem{huber2008entropy}
+Marco~F Huber, Tim Bailey, Hugh Durrant-Whyte, and Uwe~D Hanebeck.
+\newblock On entropy approximation for gaussian mixture random vectors.
+\newblock In {\em Multisensor Fusion and Integration for Intelligent Systems,
+  2008. MFI 2008. IEEE International Conference on}, pages 181--188. IEEE,
+  2008.
+
+\bibitem{hershey2007approximating}
+John~R Hershey and Peder~A Olsen.
+\newblock Approximating the kullback leibler divergence between gaussian
+  mixture models.
+\newblock In {\em Acoustics, Speech and Signal Processing, 2007. ICASSP 2007.
+  IEEE International Conference on}, volume~4, pages IV--317. IEEE, 2007.
+
+\bibitem{maxentreview}
+Steve Press\'e, Kingshuk Ghosh, Julian Lee, and Ken~A. Dill.
+\newblock Principles of maximum entropy and maximum caliber in statistical
+  physics.
+\newblock {\em Rev. Mod. Phys.}, 85:1115--1141, Jul 2013.
+
+\bibitem{inftheoryjaynes}
+E.~T. Jaynes.
+\newblock Information theory and statistical mechanics.
+\newblock {\em Phys. Rev.}, 106:620--630, May 1957.
+
+\bibitem{giffin}
+Adom Giffin, Carlo Cafaro, and Sean~Alan Ali.
+\newblock Application of the maximum relative entropy method to the physics of
+  ferromagnetic materials.
+\newblock {\em Physica A: Statistical Mechanics and its Applications}, 455:11
+  -- 26, 2016.
+
+\bibitem{nerioptions}
+Cassio Neri and Lorenz Schneider.
+\newblock Maximum entropy distributions inferred from option portfolios on an
+  asset.
+\newblock {\em Finance and Stochastics}, 16(2):293--318, 2012.
+
+\bibitem{entropybuchen}
+Peter~W Buchen and Michael Kelly.
+\newblock The maximum entropy distribution of an asset inferred from option
+  prices.
+\newblock {\em Journal of Financial and Quantitative Analysis},
+  31(01):143--159, 1996.
+
+\bibitem{diego}
+Diego Granziol and Stephen Roberts.
+\newblock An information and field theoretic approach to the grand canonical
+  ensemble, 2017.
+
+\bibitem{Gonzalez2014}
+Diego Gonz{\'a}lez, Sergio Davis, and Gonzalo Guti{\'e}rrez.
+\newblock Newtonian dynamics from the principle of maximum caliber.
+\newblock {\em Foundations of Physics}, 44(9):923--931, 2014.
+
+\bibitem{shore1980axiomatic}
+John Shore and Rodney Johnson.
+\newblock Axiomatic derivation of the principle of maximum entropy and the
+  principle of minimum cross-entropy.
+\newblock {\em IEEE Transactions on information theory}, 26(1):26--37, 1980.
+
+\bibitem{billingsley_2012}
+Patrick Billingsley.
+\newblock {\em Probability and measure}.
+\newblock Wiley, 2012.
+
+\bibitem{mcgill1954multivariate}
+William McGill.
+\newblock Multivariate information transmission.
+\newblock {\em Transactions of the IRE Professional Group on Information
+  Theory}, 4(4):93--111, 1954.
+
+\bibitem{boyd_vandenberghe_2009}
+Stephen~P. Boyd and Lieven Vandenberghe.
+\newblock {\em Convex optimization}.
+\newblock Cambridge University Press, 2009.
+
+\bibitem{bandyopadhyay2005maximum}
+K~Bandyopadhyay, Arun~K Bhattacharya, Parthapratim Biswas, and DA~Drabold.
+\newblock Maximum entropy and the problem of moments: A stable algorithm.
+\newblock {\em Physical Review E}, 71(5):057701, 2005.
+
+\bibitem{Gershgorin1931}
+Semyon Gershgorin.
+\newblock Uber die {A}bgrenzung der {E}igenwerte einer {M}atrix.
+\newblock {\em Izvestija {A}kademii {N}auk {SSSR}, {S}erija {M}atematika},
+  7(3):749--754, 1931.
+
+\bibitem{ete}
+Jack Fitzsimons, Diego Granziol, Kurt Cutajar, Michael Osborne, Maurizio
+  Filippone, and Stephen Roberts.
+\newblock Entropic trace estimates for log determinants, 2017.
+
+\bibitem{bild}
+Jack Fitzsimons, Kurt Cutajar, Michael Osborne, Stephen Roberts, and Maurizio
+  Filippone.
+\newblock Bayesian inference of log determinants, 2017.
+
+\end{thebibliography}

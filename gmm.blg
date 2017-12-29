@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: gmm.aux
+The style file: unsrt.bst
+Database file #1: sample.bib
+Repeated entry---line 501 of file sample.bib
+ : @book{boyd_vandenberghe_2009
+ :                             , place={Cambridge}, title={Convex optimization}, publisher={Cambridge University Press}, author={Boyd, Stephen P. and Vandenberghe, Lieven}, year={2009}}
+I'm skipping whatever remains of this entry
+Repeated entry---line 765 of file sample.bib
+ : @article{Gonzalez2014
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 28 entries,
+            1791 wiz_defined-function locations,
+            618 strings with 8282 characters,
+and the built_in function-call counts, 6177 in all, are:
+= -- 556
+> -- 245
+< -- 5
++ -- 93
+- -- 65
+* -- 386
+:= -- 947
+add.period$ -- 82
+call.type$ -- 28
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 280
+empty$ -- 653
+format.name$ -- 65
+if$ -- 1396
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 28
+newline$ -- 139
+num.names$ -- 28
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 131
+stack$ -- 0
+substring$ -- 412
+swap$ -- 60
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 63
+width$ -- 30
+write$ -- 295
+(There were 2 error messages)

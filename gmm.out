@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Entropy, KL and Gaussian Mixture Models}{}% 2
+\BOOKMARK [1][-]{section.3}{related work}{}% 3
+\BOOKMARK [1][-]{section.4}{Contributions of this Paper}{}% 4
+\BOOKMARK [1][-]{section.5}{Maximum Entropy}{}% 5
+\BOOKMARK [1][-]{section.6}{Are moments sufficient to fully describe the problem?}{}% 6
+\BOOKMARK [1][-]{section.7}{Proof of MaxEnt proposal as an upper bound}{}% 7
+\BOOKMARK [1][-]{section.8}{Multidimensional Entropy}{}% 8
+\BOOKMARK [1][-]{section.9}{KL divergence between two GMMs}{}% 9
+\BOOKMARK [1][-]{section.10}{Lagrangian Duality}{}% 10
+\BOOKMARK [2][-]{subsection.10.1}{Application to Maximum Entropy}{section.10}% 11
+\BOOKMARK [1][-]{section.11}{Algorithm}{}% 12
+\BOOKMARK [2][-]{subsection.11.1}{Algorithmic details for Practitioners}{section.11}% 13
+\BOOKMARK [1][-]{section.12}{Stochastic trace estimates}{}% 14
+\BOOKMARK [2][-]{subsection.12.1}{Single sample result comparisons}{section.12}% 15
+\BOOKMARK [1][-]{section.13}{Conclusion}{}% 16
+\BOOKMARK [1][-]{section*.2}{References}{}% 17
